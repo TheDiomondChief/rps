@@ -1,0 +1,14 @@
+div {
+    background-color: red;
+    height: 50px;
+    width: 200px;
+    margin: 10px;
+}
+
+#display {
+    background-color: aqua
+}
+
+#cpu {
+    background-color: green
+}
